@@ -60,3 +60,4 @@ resource "azurerm_key_vault" "kv" {
 
   enable_rbac_authorization = true
 }
+
